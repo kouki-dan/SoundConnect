@@ -70,6 +70,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         installation.setDeviceTokenFromData(deviceToken)
         installation.saveInBackground()
         
+        let currentInstallation = PFInstallation.currentInstallation()
+        currentInstallation.addUniqueObject("All", forKey: "channels")
+        currentInstallation.saveInBackground()
+
+        
         PFPush.subscribeToChannelInBackground("") { (succeeded: Bool, error: NSError?) in
             if succeeded {
                 print("ParseStarterProject successfully subscribed to push notifications on the broadcast channel.\n");

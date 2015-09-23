@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E8E77871BB16C90007E8EB1 /* 4A.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E777F1BB16C21007E8EB1 /* 4A.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E77881BB16C90007E8EB1 /* 4B.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77801BB16C21007E8EB1 /* 4B.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E77891BB16C90007E8EB1 /* 4C.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77811BB16C21007E8EB1 /* 4C.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E778A1BB16C90007E8EB1 /* 4D.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77821BB16C21007E8EB1 /* 4D.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E778B1BB16C90007E8EB1 /* 4E.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77831BB16C21007E8EB1 /* 4E.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E778C1BB16C90007E8EB1 /* 4F.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77841BB16C21007E8EB1 /* 4F.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E778D1BB16C90007E8EB1 /* 4G.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77851BB16C21007E8EB1 /* 4G.caf */; settings = {ASSET_TAGS = (); }; };
+		1E8E778E1BB16C90007E8EB1 /* 5C.caf in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E77861BB16C21007E8EB1 /* 5C.caf */; settings = {ASSET_TAGS = (); }; };
 		1EEE72D61BB15D5300C9F730 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EEE72D51BB15D5300C9F730 /* AppDelegate.swift */; };
 		1EEE72D81BB15D5300C9F730 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EEE72D71BB15D5300C9F730 /* ViewController.swift */; };
 		1EEE72DB1BB15D5300C9F730 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1EEE72D91BB15D5300C9F730 /* Main.storyboard */; };
@@ -52,6 +60,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E8E777F1BB16C21007E8EB1 /* 4A.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4A.caf; path = resources/caf/4A.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77801BB16C21007E8EB1 /* 4B.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4B.caf; path = resources/caf/4B.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77811BB16C21007E8EB1 /* 4C.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4C.caf; path = resources/caf/4C.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77821BB16C21007E8EB1 /* 4D.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4D.caf; path = resources/caf/4D.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77831BB16C21007E8EB1 /* 4E.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4E.caf; path = resources/caf/4E.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77841BB16C21007E8EB1 /* 4F.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4F.caf; path = resources/caf/4F.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77851BB16C21007E8EB1 /* 4G.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 4G.caf; path = resources/caf/4G.caf; sourceTree = SOURCE_ROOT; };
+		1E8E77861BB16C21007E8EB1 /* 5C.caf */ = {isa = PBXFileReference; lastKnownFileType = file; name = 5C.caf; path = resources/caf/5C.caf; sourceTree = SOURCE_ROOT; };
 		1EEE72D21BB15D5300C9F730 /* SoundConnect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoundConnect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EEE72D51BB15D5300C9F730 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1EEE72D71BB15D5300C9F730 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -158,6 +174,14 @@
 				1EEE72DE1BB15D5300C9F730 /* LaunchScreen.storyboard */,
 				1EEE72E11BB15D5300C9F730 /* Info.plist */,
 				1EEE73031BB15D9500C9F730 /* Secrets.plist */,
+				1E8E777F1BB16C21007E8EB1 /* 4A.caf */,
+				1E8E77801BB16C21007E8EB1 /* 4B.caf */,
+				1E8E77811BB16C21007E8EB1 /* 4C.caf */,
+				1E8E77821BB16C21007E8EB1 /* 4D.caf */,
+				1E8E77831BB16C21007E8EB1 /* 4E.caf */,
+				1E8E77841BB16C21007E8EB1 /* 4F.caf */,
+				1E8E77851BB16C21007E8EB1 /* 4G.caf */,
+				1E8E77861BB16C21007E8EB1 /* 5C.caf */,
 			);
 			path = SoundConnect;
 			sourceTree = "<group>";
@@ -308,10 +332,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E8E778C1BB16C90007E8EB1 /* 4F.caf in Resources */,
+				1E8E77881BB16C90007E8EB1 /* 4B.caf in Resources */,
+				1E8E77871BB16C90007E8EB1 /* 4A.caf in Resources */,
 				1EEE73041BB15D9500C9F730 /* Secrets.plist in Resources */,
 				1EEE72E01BB15D5300C9F730 /* LaunchScreen.storyboard in Resources */,
+				1E8E778D1BB16C90007E8EB1 /* 4G.caf in Resources */,
+				1E8E778E1BB16C90007E8EB1 /* 5C.caf in Resources */,
 				1EEE72DD1BB15D5300C9F730 /* Assets.xcassets in Resources */,
 				1EEE72DB1BB15D5300C9F730 /* Main.storyboard in Resources */,
+				1E8E778B1BB16C90007E8EB1 /* 4E.caf in Resources */,
+				1E8E778A1BB16C90007E8EB1 /* 4D.caf in Resources */,
+				1E8E77891BB16C90007E8EB1 /* 4C.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -484,6 +516,7 @@
 					"$(PROJECT_DIR)/parse-library-1.8.5",
 				);
 				INFOPLIST_FILE = SoundConnect/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.koukilab.SoundConnect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -499,6 +532,7 @@
 					"$(PROJECT_DIR)/parse-library-1.8.5",
 				);
 				INFOPLIST_FILE = SoundConnect/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.koukilab.SoundConnect;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -572,6 +606,7 @@
 				1EEE72FC1BB15D5400C9F730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1EEE72FD1BB15D5400C9F730 /* Build configuration list for PBXNativeTarget "SoundConnectTests" */ = {
 			isa = XCConfigurationList;
@@ -580,6 +615,7 @@
 				1EEE72FF1BB15D5400C9F730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1EEE73001BB15D5400C9F730 /* Build configuration list for PBXNativeTarget "SoundConnectUITests" */ = {
 			isa = XCConfigurationList;
@@ -588,6 +624,7 @@
 				1EEE73021BB15D5400C9F730 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
